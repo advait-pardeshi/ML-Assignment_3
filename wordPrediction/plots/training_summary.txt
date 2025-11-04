@@ -1,0 +1,17 @@
+Training Summary (4GB GPU Optimized)
+====================================
+
+Final Training Loss: 5.8039
+Final Validation Loss: 6.7077
+Total Epochs: 50
+Vocabulary Size: 11634
+Model Parameters: 3,353,634
+Model Size: 12.79 MB
+Device Used: cuda
+Block Size (context): 3
+Embedding Dimension: 24
+
+Example Generation:
+Input: 'What are'
+Output: ' is.'
+Complete: 'What are is.'
